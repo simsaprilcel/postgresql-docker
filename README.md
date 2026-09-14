@@ -1,0 +1,2 @@
+# postgresql-docker
+Dockerizing PostGreSQL 
